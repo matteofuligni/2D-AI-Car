@@ -1,0 +1,1 @@
+# Funzione per valutare il fitness delle auto

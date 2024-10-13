@@ -1,0 +1,1 @@
+# Modello della macchina (fisica, controllo, input)

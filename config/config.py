@@ -1,0 +1,1 @@
+# Configurazioni e parametri principali (ipermetri, setup genetico, parametri della rete)

@@ -1,0 +1,1 @@
+# Logica dell'algoritmo genetico (selezione, crossover, mutazione)

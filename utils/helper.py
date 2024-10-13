@@ -1,0 +1,1 @@
+# Funzioni ausiliarie (logging, visualizzazioni, calcolo del punteggio)

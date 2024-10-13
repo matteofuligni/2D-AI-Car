@@ -1,0 +1,1 @@
+# Simulazione complessiva (inizializza automobili, applica reti neurali, simula movimento)

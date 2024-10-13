@@ -1,0 +1,1 @@
+# Definizione della rete neurale (costruzione e forward pass)
